@@ -1,4 +1,4 @@
-public class RangedWeapon extends Weapon{
+public abstract class RangedWeapon extends Weapon{
     public void shoot(){
 
     }
